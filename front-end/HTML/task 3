@@ -1,0 +1,51 @@
+<html>
+    <head>
+        <title>My website</title>
+    </head>
+    <body>
+        <img src="image.png" width="100" height="50" alt="Image not found" title="Background">
+        <h1>welcome to my website</h1>
+        <a href="" target="_blank">Home</a>
+        <a href="" target="_blank">About</a>
+        <a href="" target="_blank">Contact</a>
+        <hr>
+        <h2>Home</h2>
+        <p>Welcome to my page</p>
+        <img src="image.png" width="800" height="400" alt="Image not found" title="Background">
+        <hr>
+        <img src="icon.png" width="100" height="100" alt="Image not found" title="Background">
+        <p>Hello! I'm a passionate web developer. I love coding and building applications that provide great user experience.</p>
+        <ul>
+            <li>Strong probleb solving skills</li>
+            <li>Experience in HTML, CSS and JavaScript</li>
+        </ul>
+        <hr>
+        <h2>Portfolio</h2>
+        <img src="image.png" width="300" height="150" alt="Image not found" title="Background">
+        <p>Project 1</p>
+        <img src="image.png" width="300" height="150" alt="Image not found" title="Background">
+        <p>Project 2</p>
+        <img src="image.png" width="300" height="150" alt="Image not found" title="Background">
+        <p>Project 3</p>
+        <hr>
+        <h2>Latest Blog Posts</h2>
+        <h4>Blog post 1 - Web Developement Tips</h4>
+        <p>learn ..................</p>
+        <h4>Blog post 2 - How to Improve UX</h4>
+        <p>learn ..................</p>
+        <h4>Blog post 3 - JavaScript Best Practices</h4>
+        <p>learn ..................</p>
+        <hr>
+        <h2>Conact me</h2>
+        <form>
+            <label>Name </label>
+            <input type="text">
+            <label>Email </label>
+            <input type="email">
+            <label>Message </label>
+            <textarea></textarea>
+            <input type="submit" value="save">
+        </form>
+        
+    </body>
+</html>
